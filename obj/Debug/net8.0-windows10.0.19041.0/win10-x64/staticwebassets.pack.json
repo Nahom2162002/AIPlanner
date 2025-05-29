@@ -1,28 +1,32 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Nahom\\source\\repos\\AIPlanner\\AIPlanner\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\AIPlanner.styles.css",
+      "Id": "C:\\Users\\Nahom\\Programming\\AIPlanner\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\AIPlanner.styles.css",
       "PackagePath": "staticwebassets\\AIPlanner.styles.css"
     },
     {
-      "Id": "C:\\Users\\Nahom\\source\\repos\\AIPlanner\\AIPlanner\\wwwroot\\css\\app.css",
+      "Id": "C:\\Users\\Nahom\\Programming\\AIPlanner\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\Nahom\\source\\repos\\AIPlanner\\AIPlanner\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\Nahom\\Programming\\AIPlanner\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Nahom\\source\\repos\\AIPlanner\\AIPlanner\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Nahom\\Programming\\AIPlanner\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Nahom\\source\\repos\\AIPlanner\\AIPlanner\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\Nahom\\Programming\\AIPlanner\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\Nahom\\source\\repos\\AIPlanner\\AIPlanner\\wwwroot\\index.html",
+      "Id": "C:\\Users\\Nahom\\Programming\\AIPlanner\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.AIPlanner.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.AIPlanner.Microsoft.AspNetCore.StaticWebAssets.props",
