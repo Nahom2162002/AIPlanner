@@ -1,4 +1,5 @@
 class UserPreferences
 {
     string theme = "";
+    
 }
