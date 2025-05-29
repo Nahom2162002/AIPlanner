@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AIPlanner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+73b2bbd6710d01a2c9bd0f0cc107230edbde6941")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+bddeeae6b3edb9d173063f159f9653fc9c05702a")]
 [assembly: System.Reflection.AssemblyProductAttribute("AIPlanner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AIPlanner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
